@@ -1,0 +1,72 @@
+====================================================
+                  MOUTIK PATEL
+====================================================
+Email: moutikpatel@gmail.com    Phone: 403-489-6805
+Portfolio | GitHub | LinkedIn
+====================================================
+
+TECHNICAL SKILLS
+----------------------------------------------------
+- Technical Support: Troubleshooting, Problem Resolution, User Assistance, Hardware Repair
+- Operating Systems: Windows, Mac OS, Fedora Linux, Red Hat, iOS, Android
+- Microsoft Technologies: Azure, Windows Server, Active Directory, Office 365 Exchange
+- Networking: LAN/WAN, TCP/IP, DHCP, DNS, VPN, NAT, PAT, VTP, ARP, BGP, OSPF, EIGRP, MPLS, EtherChannel
+- Virtualization: Hyper-V, VMware, Containers, Docker
+- Hardware: PC, Mac Workstations, Servers, Printers, Mobile Devices
+- Programming Languages: .Net, C++, C, C#, Python, JavaScript
+- Server Administration: Windows Server, Linux Server
+- Active Directory: User Account Management, Group Policy
+- Infrastructure: Firewalls, VPNs, Network Security
+- Backup and Recovery: Azure Backup
+- IT Management Software: ServiceNow, Jira, Salesforce, SuccessFactors, Workday
+
+WORK EXPERIENCE
+----------------------------------------------------
+AV & Technical Support | Seneca College                 May 2023 – Present
+- Maintained and supported 300+ classrooms with 99.9% uptime.
+- Resolved hardware, software, and network issues, reducing downtime by 25%.
+- Improved network stability by 15% through domain environment management.
+- Managed AV equipment, reducing lecture technical issues by 30%.
+- Contributed to projects reducing IT ticket resolution time by 10%.
+
+Desktop Support Technician Coop | Teck Resources Co.  Sep 2022 – Apr 2023
+- Provided Tier 2 & 3 support with a 95% resolution rate via ServiceNow.
+- Reduced critical incidents by 20% through issue prioritization.
+- Managed Microsoft 365, Azure, and Endpoint Manager, improving issue resolution time by 15%.
+- Conducted hardware fixes and software upgrades, boosting efficiency by 25%.
+- Streamlined testing processes for haul trucks, reducing disruptions by 20%.
+
+AV & Technical Support | Seneca College           Sep 2021 – Aug 2022
+- Supported accounts, network access, and software issues.
+- Set up and troubleshot laptops, desktops, and printers.
+- Guided users on Blackboard, MySeneca, and academic software.
+
+IT Support | Bank of India                        Sep 2020 – May 2021
+- Conducted IT system testing and hands-on support.
+- Improved inventory accuracy by 20% through updated records.
+- Standardized Windows systems for secure environments.
+- Tuned system performance, optimizing user experience.
+
+EDUCATION
+----------------------------------------------------
+Advanced Diploma | Computer Programming and Analysis
+Seneca Polytechnic, Toronto
+
+Diploma | Information Technology
+The Maharaja Sayajirao University of Baroda
+
+CERTIFICATIONS
+----------------------------------------------------
+- Cisco Certified Network Associate (CCNA 200-301)
+- Microsoft Azure Fundamentals (AZ-900)
+- Cisco Certified Support Technician
+- Networking and Cybersecurity Basics (Cisco)
+
+PROJECTS
+----------------------------------------------------
+- AWS Microservice: Created a CICD-deployed cloud service using JavaScript, Node.js, AWS S3, and Cognito.
+- Network Design: Built a hybrid topology with VLANs, dynamic/static routing, and NAT services.
+- FortiGate VM: Configured firewall policies, NAT, and secure site-to-site VPN.
+- Fedora Linux Networking: Configured server with DHCP, Firewall, Bind, and Samba.
+
+====================================================
